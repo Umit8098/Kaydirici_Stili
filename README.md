@@ -1,1 +1,1 @@
-# Kaydirici_Stili
+# Slider_Style_Page
